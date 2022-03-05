@@ -1,6 +1,6 @@
 using System;
 
-namespace LibApp_Gr3.Models
+namespace LibApp.Models
 {
     public class ErrorViewModel
     {
